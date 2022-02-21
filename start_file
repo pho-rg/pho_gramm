@@ -1,0 +1,3 @@
+Sub Way()
+  MsgBox("hello world")
+End Sub
